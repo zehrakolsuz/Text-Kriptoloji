@@ -30,8 +30,8 @@ alfabe = ['A' ... '.']            # Türk alfabesi + özel karakterler
    - Şifresi çözülmüş metni çıktı dosyasına yazar
 
 ## Dosya Yolları
-- Girdi: `/Users/noor/Desktop/zehrapythonklasor/zehrapython.txt`
-- Çıktı: `/Users/noor/Desktop/zehrapythonklasor/sonuc.txt`
+- Girdi: `/Users/Desktop/zehrapythonklasor/zehrapython.txt`
+- Çıktı: `/Users/Desktop/zehrapythonklasor/sonuc.txt`
 
 ## Kullanım
 1. Şifrelenmiş metin dosyanızı belirtilen girdi yoluna yerleştirin
@@ -70,15 +70,6 @@ Lütfen şunlardan emin olun:
 - Dosya işlemleri için hata yönetimi ekleme
 - Alfabe eşleştirmesini yapılandırılabilir hale getirme
 - Farklı karakter kodlamaları için destek ekleme
-
-## Lisans
-MIT Lisansı
-
-Telif Hakkı (c) 2023 Zehra Kolsuz
-
-Bu yazılımın ve ilişkili belgelendirme dosyalarının ("Yazılım") bir kopyasını alan herhangi bir kişiye, kullanma, kopyalama, değiştirme, birleştirme, yayınlama, dağıtma, alt lisanslama ve/veya yazılımın kopyalarını satma hakları da dahil olmak üzere ve bununla kısıtlama olmaksızın, yazılımı herhangi bir kısıtlama olmaksızın kullanma izni verilir. Yazılımı alan kişiler, yukarıdaki telif hakkı bildirimi ve bu izin bildirimini yazılımın tüm kopyalarına dahil etmelidir.
-
-YAZILIM "HİÇBİR GARANTİ OLMAKSIZIN" VE SATILABİLİRLİK, BELİRLİ BİR AMACA UYGUNLUK VE İHLAL OLMAMASI DA DAHİL OLMAK ÜZERE AÇIK VEYA ZIMNİ HİÇBİR GARANTİ VERİLMEKSİZİN SUNULMUŞTUR. YAZARLAR VEYA TELİF HAKKI SAHİPLERİ HİÇBİR KOŞULDA YAZILIMIN KULLANIMINDAN KAYNAKLANAN SÖZLEŞME, HAKSIZ FİİL VEYA BAŞKA BİR SEBEPLE OLUŞAN HİÇBİR İDDİA, HASAR VEYA DİĞER YÜKÜMLÜLÜKLERDEN SORUMLU DEĞİLDİR.
 
 ## Yazar
 Zehra Kolsuz
